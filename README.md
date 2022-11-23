@@ -24,4 +24,3 @@
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/Bingboom/zh-style-guide.svg)](https://starchart.cc/Bingboom/zh-style-guide)
-
