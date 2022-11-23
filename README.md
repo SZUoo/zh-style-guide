@@ -1,54 +1,18 @@
 # 中文技术文档写作风格指南
 
-网页浏览地址：<https://zh-style-guide.readthedocs.io>
+本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
 
-本仓库存储的是《中文技术文档写作风格指南》的源文件，欢迎任何人进行贡献！
-
-## 如何贡献
-
-所有的源文件都存放在 /source 文件夹下：
-
-- 配置文件为 conf.py 文件
-- 各章节目录为各个 index.rst 文件
-- 各章节页面为各个 xxx.md 文件
-
-如需贡献，**请直接修改 /source 文件夹下的相应文件。**
-
-## 为自己的公司创建一份风格指南
-
-你可以点击右上角的 Fork 按钮，将该风格指南克隆到自己的仓库下，接着就可以按需自行修改了。
-
-如果你成功在公司内部推广了这份风格指南，鼓励你在 [zh-style-guide 的使用者列表（完善中）](https://github.com/yikeke/zh-style-guide/discussions/26) 讨论区留下你的足迹。
-
-每位 zh-style-guide 项目的实际使用者，都是社区的宝贵财富。每次与他人的连接，都会产生意想不到的价值！
+作者注：
+• 本指南只提供参考规范，不提供权威标准。一些规范在业界并无定论，争议点作者会以建议形式给出。
+• 本指南欢迎所有业界同仁们贡献、讨论、改编。
+• 本指南保持更新，欢迎任何人提出改进意见，如发现有错误或遗漏的点，请提Issue。
 
 ## 相关博客文章
 
-<img align="right" src="qrcode.jpg" alt="微信公众号二维码：阿狍杂谈" height="150" />
+<img align="right" src="qrcode.jpg" alt="微信公众号二维码：xxx" height="150" />
 
 - [30 页的开源版中文技术文档写作风格指南，Web 端开放访问！](https://mp.weixin.qq.com/s/5znjT8FKJU08YS5lKFJvDA)
 - [《风格指南》站的实现篇——如何在 30 分钟内制作一个美观的在线文档网站](https://mp.weixin.qq.com/s/7hfOOmhtJURewq8Fz7NhKg)
 
-欢迎扫码关注我的微信公众号『阿狍杂谈』👉
+欢迎扫码关注我的微信公众号『xxx』👉
 
-介绍：我在互联网/IT/开源世界玩大冒险，在英语/心理/哲学世界学真心话。我所有的输赢得失，都在这儿讲给你听 :-)
-
-## Repo stars
-
-[![Stargazers over time](https://starchart.cc/yikeke/zh-style-guide.svg)](https://starchart.cc/yikeke/zh-style-guide)
-
-## License
-
-MIT
-
-## Reference
-
-- [Readthedocs 项目控制台](https://readthedocs.org/projects/zh-style-guide/builds)
-
-- [Sphinx 入门 — Sphinx 1.8.5 文档](https://sphinx-doc.readthedocs.io/zh_CN/master/usage/quickstart.html#adding-content)
-
-- [readthedocs/recommonmark: A markdown parser for docutils](https://github.com/readthedocs/recommonmark#linking-to-headings-in-other-files)
-
-- [Specifying Dependencies — Read the Docs 5.4.3 documentation](https://docs.readthedocs.io/en/latest/guides/specifying-dependencies.html)
-
-- [reStructuredText — Sphinx 1.8.5 文档](https://sphinx-doc.readthedocs.io/zh_CN/master/usage/restructuredtext/index.html)
